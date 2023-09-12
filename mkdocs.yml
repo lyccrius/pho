@@ -59,3 +59,4 @@ extra_css:
 nav:
   - 简介:
     - 开始: index.md
+    - 书单: list.md
