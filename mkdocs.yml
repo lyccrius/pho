@@ -57,6 +57,6 @@ extra_css:
 
 # Page tree
 nav:
-  - 简介:
-    - 开始: index.md
+  - 首页:
+    - index.md
     - 书单: list.md
