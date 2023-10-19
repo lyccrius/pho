@@ -60,3 +60,13 @@ nav:
   - 首页:
     - index.md
     - 书单: list.md
+  - 力学:
+    - echanics/index.md
+  - 热学:
+    - thermal/index.md
+  - 电磁学:
+    - electromagnetism/index.md
+  - 光学:
+    - optics/index.md
+  - 近代物理:
+    - modern-physics/index.md
