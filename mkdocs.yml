@@ -62,6 +62,17 @@ nav:
     - 书单: list.md
   - 力学:
     - echanics/index.md
+    - 运动学: echanics/kinematics.md
+    - 动力学: echanics/dynamics.md
+    - 物体的平衡: echanics/balance.md
+    - 动量: echanics/momentum.md
+    - 机械能: echanics/mechanical-energy.md
+    - 角动量: echanics/angular-momentum.md
+    - 有心运动: echanics/central-motion.md
+    - 刚体: echanics/rigid-body.md
+    - 流体力学: echanics/fluid-mechanics.md
+    - 振动: echanics/vibration.md
+    - 波动: echanics/wave-motion.md
   - 热学:
     - thermal/index.md
   - 电磁学:
