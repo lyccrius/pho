@@ -99,3 +99,8 @@ nav:
     - 波动光学: optics/wave-optics.md
   - 近代物理:
     - modern-physics/index.md
+    - 光的本性: modern-physics/light-nature.md
+    - 原子结构: modern-physics/atomic-structure.md
+    - 原子核: modern-physics/atomic-nucleus.md
+    - 粒子: modern-physics/particle.md
+    - 狭义相对论: modern-physics/special-relativity.md
