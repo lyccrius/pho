@@ -86,6 +86,13 @@ nav:
     - 热膨胀: thermal/thermal-expansion.md
   - 电磁学:
     - electromagnetism/index.md
+    - 静电场: electromagnetism/electrostatic-field.md
+    - 稳恒电流: electromagnetism/steady-current.md
+    - 物质的导电性: electromagnetism/conductivity.md
+    - 磁场: electromagnetism/magnetic-field.md
+    - 电磁感应: electromagnetism/electromagnetic-induction.md
+    - 交流电: electromagnetism/alternating-current.md
+    - 电磁振荡和电磁波: electromagnetism/electromagnetic-oscillation-and-electromagnetic-wave.md
   - 光学:
     - optics/index.md
   - 近代物理:
