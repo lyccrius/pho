@@ -95,5 +95,7 @@ nav:
     - 电磁振荡和电磁波: electromagnetism/electromagnetic-oscillation-and-electromagnetic-wave.md
   - 光学:
     - optics/index.md
+    - 几何光学: optics/geometrical-optics.md
+    - 波动光学: optics/wave-optics.md
   - 近代物理:
     - modern-physics/index.md
