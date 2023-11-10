@@ -75,6 +75,15 @@ nav:
     - 波动: echanics/wave-motion.md
   - 热学:
     - thermal/index.md
+    - 分子动理论: thermal/kinetic-theory-of-molecule.md
+    - 气体的性质: thermal/gas-property.md
+    - 热力学第一定律: thermal/first-law-of-thermodynamics.md
+    - 热力学第二定律: thermal/second-law-of-thermodynamics.md
+    - 液体的性质: thermal/liquid-property.md
+    - 固体的性质: thermal/solid-property.md
+    - 物态变化: thermal/phase-transition.md
+    - 热传递的方式: thermal/heat-transfer-method.md
+    - 热膨胀: thermal/thermal-expansion.md
   - 电磁学:
     - electromagnetism/index.md
   - 光学:
